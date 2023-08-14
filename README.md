@@ -6,4 +6,4 @@ descarga de imágenes a una carpeta local también utilizando PHP.
 
 # Aplicaciones a descargar
 
-Para iniciar esta app debe descargar Xampp, y la libreria de php 'Phpspreadsheet'
+Para iniciar esta app debe descargar Xampp, e iniciar apache y mysql'
